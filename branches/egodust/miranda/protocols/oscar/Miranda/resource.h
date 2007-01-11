@@ -1,2 +1,0 @@
-#define IDD_OSCAR_USERINFO 1000
-
