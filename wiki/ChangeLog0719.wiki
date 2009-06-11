@@ -1,4 +1,4 @@
-#Changelog for Miranda IM 0.7.19
+# Changelog for Miranda IM 0.7.19
 
 = 0.7.19 Changelog =
 
